@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "6c5f04ae62c56e1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "415b43f4694efd27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34c8dc45c0942b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "awards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "awards"
+            },
+            "group": "dee1fd1e3c9e2649"
+          }
+        ]
+      },
+      {
+        "id": "6ea2eab470580b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6094423d446fb875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "awards.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "awards"
+            },
+            "group": "dee1fd1e3c9e2649"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26a59c1166146d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e77e6e40e15e705",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cf09f0fd0680060",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7ed873de5f2363b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3670231561fe2d95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3d98b521f26e31f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b1b727f690e0233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18a62434bf95ff9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "awards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "awards 的反向链接列表"
+            }
+          },
+          {
+            "id": "03514f534a860c37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "awards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "awards 的出链列表"
+            }
+          },
+          {
+            "id": "797b75d2c132db04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8ec0e79b19146d0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "awards.md"
+              },
+              "icon": "lucide-list",
+              "title": "awards 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "34c8dc45c0942b21",
+  "lastOpenFiles": [
+    "blogs.md",
+    "awards.md",
+    "index.md"
+  ]
+}

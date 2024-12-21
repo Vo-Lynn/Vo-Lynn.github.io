@@ -7,36 +7,43 @@ layout: page
 <!--<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">-->
 
 Here is **Wu Lin (Lynx, 武琳)**.<br>
+大家好，我叫武琳，是一名普通的信息管理与信息系统专业的本科生。我对信息技术与管理结合的领域充满热情，具备一定的软件开发、数据分析和信息系统运维的基础知识。
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+在校期间，我学习了Python 编程语言，熟悉 SpringBoot+MyBatis 框架，掌握数据库设计与管理。同时，我还参与了一些课程项目以及相关研究，能够熟练进行项目管理，利用 Python 实现数据采集与分析，初步了解了大数据框架。这些经历让我对从需求分析到技术实现的全过程有了一定的理解。
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+此外，我也注重管理知识的学习，了解企业信息系统架构和基础的 ERP 系统操作，能够结合管理思维和技术能力解决问题。
 
----
-
-## Research Interests
-
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- AI-powered Systems
-- Molecular Communication
-- Bio-sensor and Bio-electronics
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
----
-
-## News and Updates
-
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
+我的优势在于对技术和业务的双重理解，以及较强的学习能力和适应能力。我希望能够再一个团队里深入学习，并通过自己的努力为团队创造价值。
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
 
+## 👩‍💻 Personal Information
+
+
+- **Personalities**: 专注、探索、有趣、随和
+- **Interests**: 数据分析、编程、阅读、探索新事物
+- **Current Focus**: 了解当下人工智能技术的实践。
+
+    
+
+---
+
+  
+
+## 🛠️ Skills
+
+- **Programming Languages**: Python, Java, SQL  
+- **Frameworks & Tools**: SpringBoot, Vue, Hadoop, Docker  
+- **Data Analysis**: Echarts, SPSS
+- **Other Skills**: Project Management, Agile Development  
+
+---
+
+## 💡 Philosophy
+
+> *"Stay hungry, stay foolish."*  
+
+> *“Constantly learning, growing, and pushing boundaries.*”
+
+>***“Accept yourself as an ordinary person.”***
