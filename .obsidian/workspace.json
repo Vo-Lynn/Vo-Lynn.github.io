@@ -4,46 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "415b43f4694efd27",
+        "id": "9219d2afd0ae0d71",
         "type": "tabs",
         "children": [
           {
-            "id": "34c8dc45c0942b21",
+            "id": "88864a61137132e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "awards.md",
+                "file": "blogs/Messi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "awards"
-            },
-            "group": "dee1fd1e3c9e2649"
-          }
-        ]
-      },
-      {
-        "id": "6ea2eab470580b32",
-        "type": "tabs",
-        "children": [
+              "title": "Messi"
+            }
+          },
           {
-            "id": "6094423d446fb875",
+            "id": "09fd35e0990e7f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "awards.md",
-                "mode": "preview",
+                "file": "blogs.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "awards"
-            },
-            "group": "dee1fd1e3c9e2649"
+              "title": "blogs"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "awards.md",
+                "file": "blogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "awards 的反向链接列表"
+              "title": "blogs 的反向链接列表"
             }
           },
           {
@@ -134,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "awards.md",
+                "file": "blogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "awards 的出链列表"
+              "title": "blogs 的出链列表"
             }
           },
           {
@@ -161,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "awards.md"
+                "file": "blogs.md"
               },
               "icon": "lucide-list",
-              "title": "awards 的大纲"
+              "title": "blogs 的大纲"
             }
           }
         ]
@@ -184,10 +177,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "34c8dc45c0942b21",
+  "active": "09fd35e0990e7f02",
   "lastOpenFiles": [
+    "().md",
     "blogs.md",
-    "awards.md",
-    "index.md"
+    "file/实施工程师_武琳.pdf",
+    "blogs/Messi.md",
+    "caihanlin.jpg",
+    "blogs/web.md",
+    "blogs/aaai-24.md",
+    "blogs/22yrs.md",
+    "blogs/24fall.md",
+    "blogs/21yrs.md",
+    "publications.md",
+    "blogs/欢迎微信交流.png",
+    "blogs/20yrs.md",
+    "blogs/to-do-list/fly.md",
+    "blogs/to-do-list/wechat.png",
+    "hobbies.md",
+    "index.md",
+    "awards.md"
   ]
 }
