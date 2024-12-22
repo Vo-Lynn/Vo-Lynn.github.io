@@ -263,3 +263,6 @@ html{font-size:112.5%;}
 .related-articles{display:inline;float:left;width:37.5%;margin-left:33.333333333333336%;margin-right:29.166666666666668%;}
 .footer-wrap footer{display:inline;float:left;width:37.5%;margin-left:33.333333333333336%;margin-right:29.166666666666668%;}
 .article-author-top{display:inline;float:left;width:12.5%;margin-left:16.666666666666668%;}
+#toggle-wechat-qr:checked + #wechat-qr {
+    display: block;
+}
