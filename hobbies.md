@@ -7,8 +7,7 @@ title: Hobbies
 
 ## 知识
 我所说的知识不局限于书本上的知识，更多的是自身实践或者体会到的，可能短时间无法体现他的作用，但是长远来说能够拓宽自己的目光和视野的知识。
-<br>我很乐于去探索了解自己没有接触过的新鲜事物，总是充满好奇心想要去了解各个领域的最新新闻。我喜欢通过 [「食贫道」](https://space.bilibili.com/39627524/?spm_id_from=333.999.0.0) 的纪录片去了解**真实世界**，借此分享一本书：[《美国对抗美国》](https://liushooter.github.io/UsaVsUsa/)；喜欢通过 [「小Q」](https://space.bilibili.com/546189/?spm_id_from=333.999.0.0)、[「小王 Albert」](https://space.bilibili.com/1140672573?spm_id_from=333.337.0.0)、[「波士顿圆脸」](https://space.bilibili.com/346563107?spm_id_from=333.337.0.0)」等了解**时事政治**；喜欢通过[「AHALOLO」](https://space.bilibili.com/353368172?spm_id_from=333.337.0.0) 去了解真正的**美与时尚**；以及数码科技频道众多分享测评者带我了解最新的**科技发展**；当然最重要的还是感谢 BILIBILI 大学带我学习了许多先进的专业课程以及竞赛和论文的知识与技术(数据库、Java、管理运筹学、Obsidian 就不一一感谢了……)。
-
+<br>我很乐于去探索了解自己没有接触过的新鲜事物，总是充满好奇心想要去了解各个领域的最新新闻。我喜欢通过[「食贫道」](https://space.bilibili.com/39627524/?spm_id_from=333.999.0.0)的纪录片去了解**真实世界**，借此分享一本书：[《美国对抗美国》](https://liushooter.github.io/UsaVsUsa/)；喜欢通过[「小Q」](https://space.bilibili.com/546189/?spm_id_from=333.999.0.0)、[「小王 Albert」](https://space.bilibili.com/1140672573?spm_id_from=333.337.0.0)、[「波士顿圆脸」](https://space.bilibili.com/346563107?spm_id_from=333.337.0.0)等了解**时事政治**；喜欢通过[「AHALOLO」](https://space.bilibili.com/353368172?spm_id_from=333.337.0.0) 去了解真正的**美与时尚**；以及数码科技频道众多分享测评者带我了解最新的**科技发展**；当然最重要的还是感谢 BILIBILI 大学带我学习了许多先进的专业课程以及竞赛和论文的知识与技术(数据库、Java、管理运筹学、Obsidian 就不一一感谢了……)。
 >注：这并不鼓励将大部分时间浪费在价值太少的短视频
 
 ---
