@@ -3,6 +3,7 @@ layout: page
 permalink: /hobbies/index.html
 title: Hobbies
 ---
+> Update: 20th Dec 2024
 
 ## 知识
 我所说的知识不局限于书本上的知识，更多的是自身实践或者体会到的，可能短时间无法体现他的作用，但是长远来说能够拓宽自己的目光和视野的知识。
