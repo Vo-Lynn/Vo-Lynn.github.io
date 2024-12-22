@@ -4,10 +4,8 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
-
 ## 知识
-<br>我所说的知识不局限于书本上的知识，更多的是自身实践或者体会到的，可能短时间无法体现他的作用，但是长远来说能够拓宽自己的目光和视野的知识。
+我所说的知识不局限于书本上的知识，更多的是自身实践或者体会到的，可能短时间无法体现他的作用，但是长远来说能够拓宽自己的目光和视野的知识。
 <br>我很乐于去探索了解自己没有接触过的新鲜事物，总是充满好奇心想要去了解各个领域的最新新闻。我喜欢通过「[食贫道](https://space.bilibili.com/39627524/?spm_id_from=333.999.0.0)」的纪录片去了解**真实世界**，借此分享一本书：[《美国对抗美国》](https://liushooter.github.io/UsaVsUsa/)；喜欢通过「[小 Q](https://space.bilibili.com/546189/?spm_id_from=333.999.0.0)」、[小王 Albert]()、[波士顿圆脸]()等了解**时事政治**；喜欢通过[AHALOLO](https://space.bilibili.com/353368172?spm_id_from=333.337.0.0)去了解真正的**美与时尚**；以及数码科技频道众多分享测评者带我了解最新的**科技发展**；当然最重要的还是感谢 BILIBILI 大学带我学习了许多先进的专业课程以及竞赛和论文的知识与技术(数据库、Java、管理运筹学、Obsidian 就不一一感谢了……)。
 
 >注：这并不鼓励将大部分时间浪费在价值太少的短视频
@@ -15,7 +13,7 @@ title: Hobbies
 ---
 ## 体育
 我比较擅长乒乓球、羽毛球。
-如果说真正的广泛的学习知识是从大学开始学习的话，那么体育运动可以说陪伴了我整个学生时代，感谢我的父母对我的培育，我父亲喜欢看体育频道，我从小耳濡目染，陪伴着他看了斯诺克（最具代表性的台球）、乒乓球、跳水、足球等众多体育项目，简单来说只要体育频道播过的赛事项目基本都看了，最令人印象深刻的是 [22 年足球世界杯梅西带领阿根廷夺冠](Messi.md)。
+<br>如果说真正的广泛的学习知识是从大学开始学习的话，那么体育运动可以说陪伴了我整个学生时代，感谢我的父母对我的培育，我父亲喜欢看体育频道，我从小耳濡目染，陪伴着他看了斯诺克（最具代表性的台球）、乒乓球、跳水、足球等众多体育项目，简单来说只要体育频道播过的赛事项目基本都看了，最令人印象深刻的是 [22 年足球世界杯梅西带领阿根廷夺冠](Messi.md)。
 
 ---
 ## 音乐
@@ -36,7 +34,7 @@ title: Hobbies
 - **(G)I-DLE**：TOMBOY、Fate
 - **aespa**：Next Level、Supernova（肉眼可见的先锋）
 - **Red Velvet**：Psycho
-- **太妍/泰妍**?：Letter To Myself
+- **太妍/泰妍？**：Letter To Myself
 - **Rosé朴彩英**：number one girl、ATP
 - **Twice**：Strategy
 
@@ -46,6 +44,7 @@ title: Hobbies
 - **米津玄师**：Lemon、打上花火、Loser、Orion……
 
 >注：日本音乐我对歌手了解很少，更多是动漫，所以下面用动漫来区分
+
 - 紫罗兰永恒花园：Sincerely（OP）、路标（ED）、Letter、The Ultimate Price最悲伤的主题
 - 跃动青春OP：メロウ
 - 言叶之庭：Rain
@@ -65,7 +64,6 @@ title: Hobbies
 - **HYBS**：Ride、Killer、Dancing With My Phone、Tip Toe（巧合听到的泰国组合，很松弛的歌曲，不过好像已经解散了可惜）
 - 其他：Yellow --Coldplay、Easy on me --Adele、I drink Wine --Adele、Call You Tonight --Whitney Houston、There Goes My Baby --d4vd……
 
-<br>
 
 
 
