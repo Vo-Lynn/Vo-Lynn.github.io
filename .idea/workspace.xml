@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/blogs/Messi.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/实施工程师_武琳.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/18yrs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/19yrs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/20yrs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/21yrs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/22yrs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/24fall.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/KDD-BLEGuard-HanlinCAI.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Reference Contact-HanlinCAI.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/proposal-2023.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/proposal.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/prelection1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/speech1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/speech3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/surfing1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/swimming.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/swimming2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/teams/teams.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/teams/teams1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/teams/teams2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/teams/teams4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hobbies.md" beforeDir="false" afterPath="$PROJECT_DIR$/hobbies.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fav.ico" beforeDir="false" afterPath="$PROJECT_DIR$/images/fav.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +38,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,6 +66,7 @@
       <workItem from="1734745018778" duration="536000" />
       <workItem from="1734745561885" duration="7132000" />
       <workItem from="1734770419841" duration="1842000" />
+      <workItem from="1734839278397" duration="2241000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1734749048733</created>
@@ -96,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734769030472</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changes">
+      <created>1734839414917</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734839414917</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
