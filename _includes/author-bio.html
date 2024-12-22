@@ -23,21 +23,15 @@
 {% if site.owner.gitee %}<p style="text-indent:0;"><a href="https://gitee.com/{{ site.owner.gitee }}"><img src="https://notwulin.github.io/images/logo/gitee.svg" width="16" height="16"></img> Gitee</a></p>{% endif %}
 
 {% if site.owner.wechat %}
-<p style="text-indent:0;">
-    <!-- 使用 label 来触发 checkbox 的变化 -->
-    <label for="toggle-wechat-qr" style="cursor: pointer;">
+<p style="text-indent:0; position: relative;">
+    <a href="javascript:void(0);" onclick="toggleWeChatQR()">
         <img src="https://notwulin.github.io/images/logo/wechat.svg" width="16" height="16" alt="WeChat">
         WeChat
-    </label>
-</p>
-
-<!-- 隐藏的 checkbox 控制二维码的显示 -->
-<input type="checkbox" id="toggle-wechat-qr" style="display:none;">
-
-<!-- 二维码元素 -->
-<div id="wechat-qr" style="display:none; position:relative; margin-top:10px;">
+    </a>
+<div id="wechat-qr" style="display:none; position:absolute; top:20px; left:0;">
     <img src="{{ site.owner.wechat.qrcode }}" alt="WeChat QR Code" style="width:150px; height:auto;">
 </div>
+</p>
 {% endif %}
 
 {% if site.owner.lastfm %}<p style="text-indent:0;"><a href="https://lastfm.com/{{ site.owner.lastfm }}"><i class="icon-lastfm"></i> Last.fm</a></p>{% endif %}
