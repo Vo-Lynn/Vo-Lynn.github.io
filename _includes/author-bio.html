@@ -24,11 +24,17 @@
 
 {% if site.owner.wechat %}
 <p style="text-indent:0;">
-    <a href="javascript:void(0);" onclick="toggleWeChatQR()">
+    <!-- 使用 label 来触发 checkbox 的变化 -->
+    <label for="toggle-wechat-qr" style="cursor: pointer;">
         <img src="https://notwulin.github.io/images/logo/wechat.svg" width="16" height="16" alt="WeChat">
         WeChat
-    </a>
+    </label>
 </p>
+
+<!-- 隐藏的 checkbox 控制二维码的显示 -->
+<input type="checkbox" id="toggle-wechat-qr" style="display:none;">
+
+<!-- 二维码元素 -->
 <div id="wechat-qr" style="display:none; position:relative; margin-top:10px;">
     <img src="{{ site.owner.wechat.qrcode }}" alt="WeChat QR Code" style="width:150px; height:auto;">
 </div>

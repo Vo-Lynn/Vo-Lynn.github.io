@@ -9,15 +9,7 @@
 *
 * Date: Thu Sept 01 18:00:00 2011 -0500
 */
-window.toggleWeChatQR = function() {
-  const qr = document.getElementById('wechat-qr');
-  if (qr) {
-    console.log("二维码元素找到，切换显示状态");
-    qr.style.display = qr.style.display === 'none' ? 'block' : 'none';
-  } else {
-    console.log("二维码元素没有找到！");
-  }
-};
+
 (function( $ ){
 
   "use strict";
