@@ -1901,7 +1901,7 @@ $(document).ready(function() {
   });
 });
 
-function toggleWeChatQR() {
+window.toggleWeChatQR = function() {
   const qr = document.getElementById('wechat-qr');
   qr.style.display = qr.style.display === 'none' ? 'block' : 'none';
-}
+};
