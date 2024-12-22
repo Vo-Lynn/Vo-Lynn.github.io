@@ -9,6 +9,10 @@
 *
 * Date: Thu Sept 01 18:00:00 2011 -0500
 */
+window.toggleWeChatQR = function() {
+  const qr = document.getElementById('wechat-qr');
+  qr.style.display = qr.style.display === 'none' ? 'block' : 'none';
+};
 
 (function( $ ){
 
@@ -1900,8 +1904,3 @@ $(document).ready(function() {
     mainClass: 'mfp-fade'
   });
 });
-
-window.toggleWeChatQR = function() {
-  const qr = document.getElementById('wechat-qr');
-  qr.style.display = qr.style.display === 'none' ? 'block' : 'none';
-};
