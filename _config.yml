@@ -11,8 +11,8 @@ owner:
   bio: I forge ahead, never retracing my steps.
   email: 3050687481@qq.com
   cv: https://notwulin.github.io/file/实施工程师_武琳.pdf
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: lancecai2002
+  wechat:
+    qrcode: /images/wechat-qrcode.png
   # github: notwulin
   gitee: artist-opela
   # linkedin: hanlincai

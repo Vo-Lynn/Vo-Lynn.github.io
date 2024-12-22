@@ -1900,3 +1900,8 @@ $(document).ready(function() {
     mainClass: 'mfp-fade'
   });
 });
+
+function toggleWeChatQR() {
+  const qr = document.getElementById('wechat-qr');
+  qr.style.display = qr.style.display === 'none' ? 'block' : 'none';
+}
