@@ -18,7 +18,7 @@ Here is **Wu Lin (Lynx, 武琳)**.
 
 - **Personalities**: Focused, Exploratory, Fun, Easy-going.
 - **Interests**: Data Analysis, Programming, Reading, Exploring New Things.
-- **Current Focus**: Understanding the practical applications of current artificial intelligence technologies.
+- **Current Focus**: Understanding the current practice of AI technology.
 
 ---
 
