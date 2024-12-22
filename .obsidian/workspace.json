@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs.md",
+                "file": "hobbies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blogs"
+              "title": "hobbies"
+            }
+          },
+          {
+            "id": "e2744569390b90d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Messi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Messi"
+            }
+          },
+          {
+            "id": "c6b2d03baf7d422f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -179,10 +207,12 @@
   },
   "active": "09fd35e0990e7f02",
   "lastOpenFiles": [
-    "().md",
-    "blogs.md",
-    "file/实施工程师_武琳.pdf",
     "blogs/Messi.md",
+    "hobbies.md",
+    "index.md",
+    "blogs.md",
+    "().md",
+    "file/实施工程师_武琳.pdf",
     "caihanlin.jpg",
     "blogs/web.md",
     "blogs/aaai-24.md",
@@ -194,8 +224,6 @@
     "blogs/20yrs.md",
     "blogs/to-do-list/fly.md",
     "blogs/to-do-list/wechat.png",
-    "hobbies.md",
-    "index.md",
     "awards.md"
   ]
 }
