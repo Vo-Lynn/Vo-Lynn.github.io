@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "blogs/Messi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Messi"
             }
           },
           {
@@ -178,12 +178,12 @@
   },
   "active": "88864a61137132e4",
   "lastOpenFiles": [
+    "index.md",
     "publications.md",
     "caihanlin.jpg",
     "hobbies.md",
     "blogs/Messi.md",
     "blogs/IoE.md",
-    "index.md",
     "blogs.md",
     "().md",
     "file/实施工程师_武琳.pdf",
